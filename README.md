@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ra9mirez11
-- 👀 I’m interested in ... crypto, trade, and futuru AI
+- 👀 I’m interested in ... crypto, trade, and futur AI
 - 🌱 I’m currently learning ... java, python
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...
