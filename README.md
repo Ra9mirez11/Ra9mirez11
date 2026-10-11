@@ -57,5 +57,5 @@ Web3 Security Researcher, Fullstack Web3 Developer & AI Systems Builder. Special
 
 - **Online Resume**: [stefan-bohumel-resume.netlify.app](https://stefan-bohumel-resume.netlify.app/)
 - **LinkedIn**: [Štefan Bohumel](https://www.linkedin.com/in/štefan-bohumel-480865219)
-- **Contra Portfolio**: [contra.com/stefan_bohumel](https://contra.com)
+- **Contra Portfolio**: [contra.com/stefan_bohumel](https://contra.com/stefan_bohumel_6aml7jz0?referralExperimentNid=DEFAULT_REFERRAL_PROGRAM&referrerUsername=stefan_bohumel_6aml7jz0)
 - **GitHub**: [@Ra9mirez11](https://github.com/Ra9mirez11)
